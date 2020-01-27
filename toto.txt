@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Coucou Lulu
-=======
-Coucou Lucas
->>>>>>> 7ba4eee39d5406247c81e287e574b9439c982a91
+Cc
